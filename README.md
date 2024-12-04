@@ -65,8 +65,11 @@ src/
   ├── controllers/     # Request handlers
   ├── models/         # Database schemas
   ├── routes/         # API routes
+  ├── services/       # External API service
   ├── types/          # TypeScript types
+  ├── utils/          # Global utilities
   ├── app.ts         # Express app setup
+  ├── config.ts      # Node env-based-config
   └── index.ts       # Entry point
 ```
 
